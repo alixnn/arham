@@ -1,1 +1,41 @@
+{
+  "name": "Arham Mir",
+  "headline": "Student | Aspiring Public Health / Pre-Med | Texas",
+  "location": "Round Rock, TX",
+  "email": "mirarhamali@gmail.com",
+  "links": [
+    { "label": "Resume (PDF)", "url": "https://example.com/your-resume.pdf" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/yourprofile" },
+    { "label": "GitHub", "url": "https://github.com/yourusername" }
+  ],
+  "about": [
+    "Write a short intro about yourself here.",
+    "Add a second paragraph about what you’re building / what you want to do."
+  ],
+  "skills": ["Leadership", "Customer Service", "Public Speaking", "Research", "Teamwork"],
+  "experience": [
+    {
+      "title": "Job Title",
+      "org": "Company / Organization",
+      "dates": "Month 2025 – Present",
+      "bullets": [
+        "Did a thing that created impact.",
+        "Did another thing with a measurable result."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "1–2 lines about what it is and why it matters.",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "school": "Your High School / University",
+      "details": "Graduation year • GPA (optional) • Relevant coursework"
+    }
+  ]
+}
 
